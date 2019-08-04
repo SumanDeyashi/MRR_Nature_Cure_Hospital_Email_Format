@@ -1,0 +1,43 @@
+body
+	{
+		font-family: arial;
+	}
+	.bgcolor
+	{
+		background: #4B515D;
+	}
+	 h1
+	 {
+	 	padding: 20px;
+	 	color:#fff;
+	 }
+     .img
+     {
+     	padding: 10px;
+     	width:70vw;
+     	height: 70vh;
+     }
+
+     h5
+	 {
+	 	padding: 10px;
+	 	color:#fff;
+	 }
+
+	 .text-color
+	 {
+	 	color: #ef9a9a;
+	 }
+
+	 .size
+	 {
+	 	font-size:2.5rem;
+	 }
+	 .insta
+	 {
+        background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%); 
+        color: #fff; 
+        border-radius: 5px;
+        height: 32px; 
+        width: 33px;
+	 }
