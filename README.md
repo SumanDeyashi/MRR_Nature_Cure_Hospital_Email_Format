@@ -16,9 +16,8 @@ Source URL: https://mrrnaturecure.com/
 
 # Description:
 
-Members will be given Identity cards and Share Certificates. Members will be eligible to apply for plots in any or all of the Society layouts at a discount rate. (Marginally lesser than the normal pricing system).
+Effective email alerts are highly focused messages and a perfect illustration of when “less is more.” While the email body is an opportunity for some elaboration on the core information conveyed in the subject line, but don’t be tempted to stray from that single idea. 
 
-Members will be eligible for a certain dividend / gifts upon successful completion of each project and milestones. Members are eligible to refer interested people to book/buy plots in society layouts and would earn a token of appreciation and a nominal referral bonus.
+Email notifications are immediate, time-sensitive, and relatively frequent. Your user will give them just a glance—you might earn 5 seconds of their time at best—so it’s not the time for subtlety. Express the facts the user needs to know and provide an obvious way for him or her to take action if needed. Done.
 
-Members will receive regular updates / newsletters on the Project launches, Project progress Updates and general information about society.
-Membership fee / Share amount will be a refundable amount, at any point of time in case the members wish to surrender their membership. They may do so by surrendering the Share Certificate and Identity Cards in a prescribed format.
+Just because email notifications should be direct and succinct, they don’t need to be blandly utilitarian. In fact, the best ones are full of personality and immediately recognizable as part of the user’s overall experience with an app or service.
