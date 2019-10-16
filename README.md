@@ -8,7 +8,7 @@ Download all files and put it in one folder. After that run index.html file on y
 
 Technology Used: HTML/HTML5, CSS/CSS3, Bootstrap 4.
 
-Duration: May 2019.
+Duration: July, 2019.
 
 URL: https://sumandeyashi.github.io/MRR_Nature_Cure_Hospital_Email_Notification/
 
