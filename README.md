@@ -21,4 +21,3 @@ Effective email alerts are highly focused messages and a perfect illustration of
 Email notifications are immediate, time-sensitive, and relatively frequent. Your user will give them just a glance—you might earn 5 seconds of their time at best—so it’s not the time for subtlety. Express the facts the user needs to know and provide an obvious way for him or her to take action if needed. Done.
 
 Just because email notifications should be direct and succinct, they don’t need to be blandly utilitarian. In fact, the best ones are full of personality and immediately recognizable as part of the user’s overall experience with an app or service.
-xxx
